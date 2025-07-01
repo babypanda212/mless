@@ -52,3 +52,4 @@ Next time I would definitely start earlier, I underestimated the struggle of Col
 
 ## Task 3 - Incorporating Future Forecasts
 
+Simply added future temperature values from the 96 hour window to the "X" input vector, flattening as needed for MLP.
