@@ -50,4 +50,5 @@ Once sequences were generated, I flattened the multivariate input and modified t
 
 Next time I would definitely start earlier, I underestimated the struggle of Colab.
 
-## Task 3 - 
+## Task 3 - Incorporating Future Forecasts
+
