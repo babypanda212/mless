@@ -48,7 +48,7 @@ A classmate suggested dropping duplicates per hour — I did that and managed to
 
 Once sequences were generated, I flattened the multivariate input and modified the MLP to handle two input variables. 
 
-I trained the model but the results were poor, I believe due to normalisation issues from the distribution shift. I could not download the data also - the download cell ran indefinitely until session timed out.
+I trained the model but the results were poor, I believe due to normalisation issues from the distribution shift. I could not download the data also - the download cell ran indefinitely until session timed out. For the first training I used the already normalised data from notebook 1.
 
 Next time I would definitely start earlier, I underestimated the struggle of Colab.
 
