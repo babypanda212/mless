@@ -46,7 +46,9 @@ Tried using the default `create_sequences` function but kept getting empty array
 
 A classmate suggested dropping duplicates per hour — I did that and managed to generate sequences, but I am not confident this is the "correct" solution. I am thinking it might shift the data distribution wrongly.
 
-Once sequences were generated, I flattened the multivariate input and modified the MLP to handle two input variables. No compute to train and evaluate the model, will run later.
+Once sequences were generated, I flattened the multivariate input and modified the MLP to handle two input variables. 
+
+I trained the model but the results were poor, I believe due to normalisation issues from the distribution shift. I could not download the data also - the download cell ran indefinitely until session timed out.
 
 Next time I would definitely start earlier, I underestimated the struggle of Colab.
 
