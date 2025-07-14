@@ -1,0 +1,18 @@
+{
+    "73": {
+        "data_start_date": "1999-07-02T18:00:00+00:00",
+        "data_end_date": "2025-07-13T07:00:00+00:00",
+        "variable_name": "o3",
+        "station_code": "DENW094",
+        "latitude": 50.754704,
+        "longitude": 6.093923
+    },
+    "76": {
+        "data_start_date": "1999-07-02T17:00:00+00:00",
+        "data_end_date": "2025-07-13T07:00:00+00:00",
+        "variable_name": "temp",
+        "station_code": "DENW094",
+        "latitude": 50.754704,
+        "longitude": 6.093923
+    }
+}
